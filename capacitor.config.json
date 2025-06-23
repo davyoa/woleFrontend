@@ -1,0 +1,10 @@
+{
+  "appId": "wole.com",
+  "appName": "wole",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
